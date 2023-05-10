@@ -1,0 +1,184 @@
+Year,City,Date,AQI,AQI_Bucket
+2020,Delhi,2020-01-01,492.0,Severe
+2020,Delhi,2020-01-02,485.0,Severe
+2020,Delhi,2020-01-03,426.0,Severe
+2020,Delhi,2020-01-04,366.0,Very Poor
+2020,Delhi,2020-01-05,354.0,Very Poor
+2020,Delhi,2020-01-06,335.0,Very Poor
+2020,Delhi,2020-01-07,285.0,Poor
+2020,Delhi,2020-01-08,281.0,Poor
+2020,Delhi,2020-01-09,231.0,Poor
+2020,Delhi,2020-01-10,255.0,Poor
+2020,Delhi,2020-01-11,309.0,Very Poor
+2020,Delhi,2020-01-12,352.0,Very Poor
+2020,Delhi,2020-01-13,381.0,Very Poor
+2020,Delhi,2020-01-14,314.0,Very Poor
+2020,Delhi,2020-01-15,241.0,Poor
+2020,Delhi,2020-01-16,286.0,Poor
+2020,Delhi,2020-01-17,287.0,Poor
+2020,Delhi,2020-01-18,262.0,Poor
+2020,Delhi,2020-01-19,290.0,Poor
+2020,Delhi,2020-01-20,282.0,Poor
+2020,Delhi,2020-01-21,359.0,Very Poor
+2020,Delhi,2020-01-22,378.0,Very Poor
+2020,Delhi,2020-01-23,273.0,Poor
+2020,Delhi,2020-01-24,155.0,Moderate
+2020,Delhi,2020-01-25,251.0,Poor
+2020,Delhi,2020-01-26,349.0,Very Poor
+2020,Delhi,2020-01-27,365.0,Very Poor
+2020,Delhi,2020-01-28,302.0,Very Poor
+2020,Delhi,2020-01-29,218.0,Poor
+2020,Delhi,2020-01-30,195.0,Moderate
+2020,Delhi,2020-01-31,203.0,Poor
+2020,Delhi,2020-02-01,244.0,Poor
+2020,Delhi,2020-02-02,254.0,Poor
+2020,Delhi,2020-02-03,297.0,Poor
+2020,Delhi,2020-02-04,336.0,Very Poor
+2020,Delhi,2020-02-05,344.0,Very Poor
+2020,Delhi,2020-02-06,277.0,Poor
+2020,Delhi,2020-02-07,307.0,Very Poor
+2020,Delhi,2020-02-08,315.0,Very Poor
+2020,Delhi,2020-02-09,310.0,Very Poor
+2020,Delhi,2020-02-10,328.0,Very Poor
+2020,Delhi,2020-02-11,347.0,Very Poor
+2020,Delhi,2020-02-12,343.0,Very Poor
+2020,Delhi,2020-02-13,279.0,Poor
+2020,Delhi,2020-02-14,186.0,Moderate
+2020,Delhi,2020-02-15,174.0,Moderate
+2020,Delhi,2020-02-16,254.0,Poor
+2020,Delhi,2020-02-17,323.0,Very Poor
+2020,Delhi,2020-02-18,292.0,Poor
+2020,Delhi,2020-02-19,300.0,Poor
+2020,Delhi,2020-02-20,253.0,Poor
+2020,Delhi,2020-02-21,170.0,Moderate
+2020,Delhi,2020-02-22,104.0,Moderate
+2020,Delhi,2020-02-23,221.0,Poor
+2020,Delhi,2020-02-24,169.0,Moderate
+2020,Delhi,2020-02-25,244.0,Poor
+2020,Delhi,2020-02-26,303.0,Very Poor
+2020,Delhi,2020-02-27,270.0,Poor
+2020,Delhi,2020-02-28,214.0,Poor
+2020,Delhi,2020-02-29,144.0,Moderate
+2020,Delhi,2020-03-01,105.0,Moderate
+2020,Delhi,2020-03-02,192.0,Moderate
+2020,Delhi,2020-03-03,226.0,Poor
+2020,Delhi,2020-03-04,200.0,Moderate
+2020,Delhi,2020-03-05,112.0,Moderate
+2020,Delhi,2020-03-06,82.0,Satisfactory
+2020,Delhi,2020-03-07,77.0,Satisfactory
+2020,Delhi,2020-03-08,156.0,Moderate
+2020,Delhi,2020-03-09,138.0,Moderate
+2020,Delhi,2020-03-10,186.0,Moderate
+2020,Delhi,2020-03-11,128.0,Moderate
+2020,Delhi,2020-03-12,125.0,Moderate
+2020,Delhi,2020-03-13,170.0,Moderate
+2020,Delhi,2020-03-14,131.0,Moderate
+2020,Delhi,2020-03-15,124.0,Moderate
+2020,Delhi,2020-03-16,148.0,Moderate
+2020,Delhi,2020-03-17,164.0,Moderate
+2020,Delhi,2020-03-18,162.0,Moderate
+2020,Delhi,2020-03-19,191.0,Moderate
+2020,Delhi,2020-03-20,209.0,Poor
+2020,Delhi,2020-03-21,205.0,Poor
+2020,Delhi,2020-03-22,198.0,Moderate
+2020,Delhi,2020-03-23,127.0,Moderate
+2020,Delhi,2020-03-24,124.0,Moderate
+2020,Delhi,2020-03-25,92.0,Satisfactory
+2020,Delhi,2020-03-26,93.0,Satisfactory
+2020,Delhi,2020-03-27,76.0,Satisfactory
+2020,Delhi,2020-03-28,51.0,Satisfactory
+2020,Delhi,2020-03-29,64.0,Satisfactory
+2020,Delhi,2020-03-30,74.0,Satisfactory
+2020,Delhi,2020-03-31,81.0,Satisfactory
+2020,Delhi,2020-04-01,80.0,Satisfactory
+2020,Delhi,2020-04-02,78.0,Satisfactory
+2020,Delhi,2020-04-03,84.0,Satisfactory
+2020,Delhi,2020-04-04,90.0,Satisfactory
+2020,Delhi,2020-04-05,103.0,Moderate
+2020,Delhi,2020-04-06,134.0,Moderate
+2020,Delhi,2020-04-07,100.0,Satisfactory
+2020,Delhi,2020-04-08,91.0,Satisfactory
+2020,Delhi,2020-04-09,89.0,Satisfactory
+2020,Delhi,2020-04-10,111.0,Moderate
+2020,Delhi,2020-04-11,126.0,Moderate
+2020,Delhi,2020-04-12,102.0,Moderate
+2020,Delhi,2020-04-13,119.0,Moderate
+2020,Delhi,2020-04-14,134.0,Moderate
+2020,Delhi,2020-04-15,152.0,Moderate
+2020,Delhi,2020-04-16,172.0,Moderate
+2020,Delhi,2020-04-17,123.0,Moderate
+2020,Delhi,2020-04-18,102.0,Moderate
+2020,Delhi,2020-04-19,95.0,Satisfactory
+2020,Delhi,2020-04-20,115.0,Moderate
+2020,Delhi,2020-04-21,102.0,Moderate
+2020,Delhi,2020-04-22,122.0,Moderate
+2020,Delhi,2020-04-23,129.0,Moderate
+2020,Delhi,2020-04-24,143.0,Moderate
+2020,Delhi,2020-04-25,121.0,Moderate
+2020,Delhi,2020-04-26,119.0,Moderate
+2020,Delhi,2020-04-27,98.0,Satisfactory
+2020,Delhi,2020-04-28,105.0,Moderate
+2020,Delhi,2020-04-29,123.0,Moderate
+2020,Delhi,2020-04-30,128.0,Moderate
+2020,Delhi,2020-05-01,140.0,Moderate
+2020,Delhi,2020-05-02,127.0,Moderate
+2020,Delhi,2020-05-03,110.0,Moderate
+2020,Delhi,2020-05-04,92.0,Satisfactory
+2020,Delhi,2020-05-05,117.0,Moderate
+2020,Delhi,2020-05-06,139.0,Moderate
+2020,Delhi,2020-05-07,140.0,Moderate
+2020,Delhi,2020-05-08,138.0,Moderate
+2020,Delhi,2020-05-09,142.0,Moderate
+2020,Delhi,2020-05-10,127.0,Moderate
+2020,Delhi,2020-05-11,113.0,Moderate
+2020,Delhi,2020-05-12,122.0,Moderate
+2020,Delhi,2020-05-13,132.0,Moderate
+2020,Delhi,2020-05-14,154.0,Moderate
+2020,Delhi,2020-05-15,125.0,Moderate
+2020,Delhi,2020-05-16,175.0,Moderate
+2020,Delhi,2020-05-17,202.0,Poor
+2020,Delhi,2020-05-18,222.0,Poor
+2020,Delhi,2020-05-19,238.0,Poor
+2020,Delhi,2020-05-20,196.0,Moderate
+2020,Delhi,2020-05-21,149.0,Moderate
+2020,Delhi,2020-05-22,199.0,Moderate
+2020,Delhi,2020-05-23,202.0,Poor
+2020,Delhi,2020-05-24,174.0,Moderate
+2020,Delhi,2020-05-25,157.0,Moderate
+2020,Delhi,2020-05-26,153.0,Moderate
+2020,Delhi,2020-05-27,156.0,Moderate
+2020,Delhi,2020-05-28,174.0,Moderate
+2020,Delhi,2020-05-29,129.0,Moderate
+2020,Delhi,2020-05-30,84.0,Satisfactory
+2020,Delhi,2020-05-31,80.0,Satisfactory
+2020,Delhi,2020-06-01,100.0,Satisfactory
+2020,Delhi,2020-06-02,123.0,Moderate
+2020,Delhi,2020-06-03,123.0,Moderate
+2020,Delhi,2020-06-04,144.0,Moderate
+2020,Delhi,2020-06-05,126.0,Moderate
+2020,Delhi,2020-06-06,102.0,Moderate
+2020,Delhi,2020-06-07,104.0,Moderate
+2020,Delhi,2020-06-08,112.0,Moderate
+2020,Delhi,2020-06-09,138.0,Moderate
+2020,Delhi,2020-06-10,154.0,Moderate
+2020,Delhi,2020-06-11,142.0,Moderate
+2020,Delhi,2020-06-12,152.0,Moderate
+2020,Delhi,2020-06-13,132.0,Moderate
+2020,Delhi,2020-06-14,147.0,Moderate
+2020,Delhi,2020-06-15,130.0,Moderate
+2020,Delhi,2020-06-16,126.0,Moderate
+2020,Delhi,2020-06-17,110.0,Moderate
+2020,Delhi,2020-06-18,107.0,Moderate
+2020,Delhi,2020-06-19,132.0,Moderate
+2020,Delhi,2020-06-20,158.0,Moderate
+2020,Delhi,2020-06-21,105.0,Moderate
+2020,Delhi,2020-06-22,104.0,Moderate
+2020,Delhi,2020-06-23,85.0,Satisfactory
+2020,Delhi,2020-06-24,71.0,Satisfactory
+2020,Delhi,2020-06-25,86.0,Satisfactory
+2020,Delhi,2020-06-26,104.0,Moderate
+2020,Delhi,2020-06-27,112.0,Moderate
+2020,Delhi,2020-06-28,196.0,Moderate
+2020,Delhi,2020-06-29,233.0,Poor
+2020,Delhi,2020-06-30,114.0,Moderate
+2020,Delhi,2020-07-01,101.0,Moderate

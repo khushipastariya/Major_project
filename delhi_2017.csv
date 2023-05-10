@@ -1,0 +1,366 @@
+Year,City,Date,AQI,AQI_Bucket
+2017,Delhi,2017-01-01,332.0,Very Poor
+2017,Delhi,2017-01-02,384.0,Very Poor
+2017,Delhi,2017-01-03,373.0,Very Poor
+2017,Delhi,2017-01-04,439.0,Severe
+2017,Delhi,2017-01-05,318.0,Very Poor
+2017,Delhi,2017-01-06,390.0,Very Poor
+2017,Delhi,2017-01-07,332.0,Very Poor
+2017,Delhi,2017-01-08,283.0,Poor
+2017,Delhi,2017-01-09,300.0,Poor
+2017,Delhi,2017-01-10,305.0,Very Poor
+2017,Delhi,2017-01-11,337.0,Very Poor
+2017,Delhi,2017-01-12,417.0,Severe
+2017,Delhi,2017-01-13,426.0,Severe
+2017,Delhi,2017-01-14,439.0,Severe
+2017,Delhi,2017-01-15,382.0,Very Poor
+2017,Delhi,2017-01-16,397.0,Very Poor
+2017,Delhi,2017-01-17,330.0,Very Poor
+2017,Delhi,2017-01-18,358.0,Very Poor
+2017,Delhi,2017-01-19,376.0,Very Poor
+2017,Delhi,2017-01-20,334.0,Very Poor
+2017,Delhi,2017-01-21,387.0,Very Poor
+2017,Delhi,2017-01-22,446.0,Severe
+2017,Delhi,2017-01-23,379.0,Very Poor
+2017,Delhi,2017-01-24,375.0,Very Poor
+2017,Delhi,2017-01-25,450.0,Severe
+2017,Delhi,2017-01-26,340.0,Very Poor
+2017,Delhi,2017-01-27,203.0,Poor
+2017,Delhi,2017-01-28,236.0,Poor
+2017,Delhi,2017-01-29,252.0,Poor
+2017,Delhi,2017-01-30,302.0,Very Poor
+2017,Delhi,2017-01-31,358.0,Very Poor
+2017,Delhi,2017-02-01,317.0,Very Poor
+2017,Delhi,2017-02-02,387.0,Very Poor
+2017,Delhi,2017-02-03,438.0,Severe
+2017,Delhi,2017-02-04,407.0,Severe
+2017,Delhi,2017-02-05,312.0,Very Poor
+2017,Delhi,2017-02-06,367.0,Very Poor
+2017,Delhi,2017-02-07,263.0,Poor
+2017,Delhi,2017-02-08,287.0,Poor
+2017,Delhi,2017-02-09,346.0,Very Poor
+2017,Delhi,2017-02-10,314.0,Very Poor
+2017,Delhi,2017-02-11,314.0,Very Poor
+2017,Delhi,2017-02-12,314.0,Very Poor
+2017,Delhi,2017-02-13,298.0,Poor
+2017,Delhi,2017-02-14,319.0,Very Poor
+2017,Delhi,2017-02-15,382.0,Very Poor
+2017,Delhi,2017-02-16,352.0,Very Poor
+2017,Delhi,2017-02-17,309.0,Very Poor
+2017,Delhi,2017-02-18,301.0,Very Poor
+2017,Delhi,2017-02-19,274.0,Poor
+2017,Delhi,2017-02-20,313.0,Very Poor
+2017,Delhi,2017-02-21,310.0,Very Poor
+2017,Delhi,2017-02-22,258.0,Poor
+2017,Delhi,2017-02-23,238.0,Poor
+2017,Delhi,2017-02-24,449.0,Severe
+2017,Delhi,2017-02-25,516.0,Severe
+2017,Delhi,2017-02-26,520.0,Severe
+2017,Delhi,2017-02-27,363.0,Very Poor
+2017,Delhi,2017-02-28,362.0,Very Poor
+2017,Delhi,2017-03-01,397.0,Very Poor
+2017,Delhi,2017-03-02,280.0,Poor
+2017,Delhi,2017-03-03,206.0,Poor
+2017,Delhi,2017-03-04,190.0,Moderate
+2017,Delhi,2017-03-05,210.0,Poor
+2017,Delhi,2017-03-06,201.0,Poor
+2017,Delhi,2017-03-07,243.0,Poor
+2017,Delhi,2017-03-08,267.0,Poor
+2017,Delhi,2017-03-09,245.0,Poor
+2017,Delhi,2017-03-10,165.0,Moderate
+2017,Delhi,2017-03-11,102.0,Moderate
+2017,Delhi,2017-03-12,159.0,Moderate
+2017,Delhi,2017-03-13,174.0,Moderate
+2017,Delhi,2017-03-14,270.0,Poor
+2017,Delhi,2017-03-15,397.0,Very Poor
+2017,Delhi,2017-03-16,371.0,Very Poor
+2017,Delhi,2017-03-17,328.0,Very Poor
+2017,Delhi,2017-03-18,254.0,Poor
+2017,Delhi,2017-03-19,342.0,Very Poor
+2017,Delhi,2017-03-20,367.0,Very Poor
+2017,Delhi,2017-03-21,400.0,Very Poor
+2017,Delhi,2017-03-22,390.0,Very Poor
+2017,Delhi,2017-03-23,417.0,Severe
+2017,Delhi,2017-03-24,359.0,Very Poor
+2017,Delhi,2017-03-25,309.0,Very Poor
+2017,Delhi,2017-03-26,292.0,Poor
+2017,Delhi,2017-03-27,278.0,Poor
+2017,Delhi,2017-03-28,320.0,Very Poor
+2017,Delhi,2017-03-29,350.0,Very Poor
+2017,Delhi,2017-03-30,234.0,Poor
+2017,Delhi,2017-03-31,233.0,Poor
+2017,Delhi,2017-04-01,341.0,Very Poor
+2017,Delhi,2017-04-02,259.0,Poor
+2017,Delhi,2017-04-03,204.0,Poor
+2017,Delhi,2017-04-04,220.0,Poor
+2017,Delhi,2017-04-05,255.0,Poor
+2017,Delhi,2017-04-06,211.0,Poor
+2017,Delhi,2017-04-07,428.0,Severe
+2017,Delhi,2017-04-08,497.0,Severe
+2017,Delhi,2017-04-09,289.0,Poor
+2017,Delhi,2017-04-10,285.0,Poor
+2017,Delhi,2017-04-11,368.0,Very Poor
+2017,Delhi,2017-04-12,304.0,Very Poor
+2017,Delhi,2017-04-13,377.0,Very Poor
+2017,Delhi,2017-04-14,418.0,Severe
+2017,Delhi,2017-04-15,355.0,Very Poor
+2017,Delhi,2017-04-16,416.0,Severe
+2017,Delhi,2017-04-17,403.0,Severe
+2017,Delhi,2017-04-18,415.0,Severe
+2017,Delhi,2017-04-19,412.0,Severe
+2017,Delhi,2017-04-20,394.0,Very Poor
+2017,Delhi,2017-04-21,357.0,Very Poor
+2017,Delhi,2017-04-22,291.0,Poor
+2017,Delhi,2017-04-23,244.0,Poor
+2017,Delhi,2017-04-24,287.0,Poor
+2017,Delhi,2017-04-25,254.0,Poor
+2017,Delhi,2017-04-26,242.0,Poor
+2017,Delhi,2017-04-27,223.0,Poor
+2017,Delhi,2017-04-28,243.0,Poor
+2017,Delhi,2017-04-29,237.0,Poor
+2017,Delhi,2017-04-30,275.0,Poor
+2017,Delhi,2017-05-01,183.0,Moderate
+2017,Delhi,2017-05-02,370.0,Very Poor
+2017,Delhi,2017-05-03,419.0,Severe
+2017,Delhi,2017-05-04,317.0,Very Poor
+2017,Delhi,2017-05-05,455.0,Severe
+2017,Delhi,2017-05-06,435.0,Severe
+2017,Delhi,2017-05-07,468.0,Severe
+2017,Delhi,2017-05-08,442.0,Severe
+2017,Delhi,2017-05-09,400.0,Very Poor
+2017,Delhi,2017-05-10,223.0,Poor
+2017,Delhi,2017-05-11,220.0,Poor
+2017,Delhi,2017-05-12,474.0,Severe
+2017,Delhi,2017-05-13,479.0,Severe
+2017,Delhi,2017-05-14,373.0,Very Poor
+2017,Delhi,2017-05-15,354.0,Very Poor
+2017,Delhi,2017-05-16,349.0,Very Poor
+2017,Delhi,2017-05-17,264.0,Poor
+2017,Delhi,2017-05-18,188.0,Moderate
+2017,Delhi,2017-05-19,294.0,Poor
+2017,Delhi,2017-05-20,334.0,Very Poor
+2017,Delhi,2017-05-21,505.0,Severe
+2017,Delhi,2017-05-22,349.0,Very Poor
+2017,Delhi,2017-05-23,421.0,Severe
+2017,Delhi,2017-05-24,238.0,Poor
+2017,Delhi,2017-05-25,204.0,Poor
+2017,Delhi,2017-05-26,289.0,Poor
+2017,Delhi,2017-05-27,236.0,Poor
+2017,Delhi,2017-05-28,148.0,Moderate
+2017,Delhi,2017-05-29,94.0,Satisfactory
+2017,Delhi,2017-05-30,130.0,Moderate
+2017,Delhi,2017-05-31,123.0,Moderate
+2017,Delhi,2017-06-01,192.0,Moderate
+2017,Delhi,2017-06-02,324.0,Very Poor
+2017,Delhi,2017-06-03,357.0,Very Poor
+2017,Delhi,2017-06-04,393.0,Very Poor
+2017,Delhi,2017-06-05,302.0,Very Poor
+2017,Delhi,2017-06-06,239.0,Poor
+2017,Delhi,2017-06-07,210.0,Poor
+2017,Delhi,2017-06-08,77.0,Satisfactory
+2017,Delhi,2017-06-09,89.0,Satisfactory
+2017,Delhi,2017-06-10,143.0,Moderate
+2017,Delhi,2017-06-11,80.0,Satisfactory
+2017,Delhi,2017-06-12,92.0,Satisfactory
+2017,Delhi,2017-06-13,112.0,Moderate
+2017,Delhi,2017-06-14,117.0,Moderate
+2017,Delhi,2017-06-15,101.0,Moderate
+2017,Delhi,2017-06-16,106.0,Moderate
+2017,Delhi,2017-06-17,88.0,Satisfactory
+2017,Delhi,2017-06-18,94.0,Satisfactory
+2017,Delhi,2017-06-19,150.0,Moderate
+2017,Delhi,2017-06-20,97.0,Satisfactory
+2017,Delhi,2017-06-21,109.0,Moderate
+2017,Delhi,2017-06-22,124.0,Moderate
+2017,Delhi,2017-06-23,,
+2017,Delhi,2017-06-24,111.0,Moderate
+2017,Delhi,2017-06-25,148.0,Moderate
+2017,Delhi,2017-06-26,108.0,Moderate
+2017,Delhi,2017-06-27,73.0,Satisfactory
+2017,Delhi,2017-06-28,58.0,Satisfactory
+2017,Delhi,2017-06-29,58.0,Satisfactory
+2017,Delhi,2017-06-30,46.0,Good
+2017,Delhi,2017-07-01,84.0,Satisfactory
+2017,Delhi,2017-07-02,54.0,Satisfactory
+2017,Delhi,2017-07-03,49.0,Good
+2017,Delhi,2017-07-04,149.0,Moderate
+2017,Delhi,2017-07-05,212.0,Poor
+2017,Delhi,2017-07-06,85.0,Satisfactory
+2017,Delhi,2017-07-07,77.0,Satisfactory
+2017,Delhi,2017-07-08,65.0,Satisfactory
+2017,Delhi,2017-07-09,108.0,Moderate
+2017,Delhi,2017-07-10,78.0,Satisfactory
+2017,Delhi,2017-07-11,59.0,Satisfactory
+2017,Delhi,2017-07-12,47.0,Good
+2017,Delhi,2017-07-13,39.0,Good
+2017,Delhi,2017-07-14,40.0,Good
+2017,Delhi,2017-07-15,56.0,Satisfactory
+2017,Delhi,2017-07-16,65.0,Satisfactory
+2017,Delhi,2017-07-17,71.0,Satisfactory
+2017,Delhi,2017-07-18,97.0,Satisfactory
+2017,Delhi,2017-07-19,118.0,Moderate
+2017,Delhi,2017-07-20,116.0,Moderate
+2017,Delhi,2017-07-21,53.0,Satisfactory
+2017,Delhi,2017-07-22,30.0,Good
+2017,Delhi,2017-07-23,37.0,Good
+2017,Delhi,2017-07-24,35.0,Good
+2017,Delhi,2017-07-25,37.0,Good
+2017,Delhi,2017-07-26,32.0,Good
+2017,Delhi,2017-07-27,41.0,Good
+2017,Delhi,2017-07-28,42.0,Good
+2017,Delhi,2017-07-29,47.0,Good
+2017,Delhi,2017-07-30,30.0,Good
+2017,Delhi,2017-07-31,29.0,Good
+2017,Delhi,2017-08-01,44.0,Good
+2017,Delhi,2017-08-02,40.0,Good
+2017,Delhi,2017-08-03,49.0,Good
+2017,Delhi,2017-08-04,50.0,Good
+2017,Delhi,2017-08-05,88.0,Satisfactory
+2017,Delhi,2017-08-06,99.0,Satisfactory
+2017,Delhi,2017-08-07,110.0,Moderate
+2017,Delhi,2017-08-08,68.0,Satisfactory
+2017,Delhi,2017-08-09,73.0,Satisfactory
+2017,Delhi,2017-08-10,95.0,Satisfactory
+2017,Delhi,2017-08-11,58.0,Satisfactory
+2017,Delhi,2017-08-12,45.0,Good
+2017,Delhi,2017-08-13,,
+2017,Delhi,2017-08-14,,
+2017,Delhi,2017-08-15,59.0,Satisfactory
+2017,Delhi,2017-08-16,53.0,Satisfactory
+2017,Delhi,2017-08-17,66.0,Satisfactory
+2017,Delhi,2017-08-18,70.0,Satisfactory
+2017,Delhi,2017-08-19,70.0,Satisfactory
+2017,Delhi,2017-08-20,63.0,Satisfactory
+2017,Delhi,2017-08-21,42.0,Good
+2017,Delhi,2017-08-22,,
+2017,Delhi,2017-08-23,,
+2017,Delhi,2017-08-24,58.0,Satisfactory
+2017,Delhi,2017-08-25,104.0,Moderate
+2017,Delhi,2017-08-26,,
+2017,Delhi,2017-08-27,,
+2017,Delhi,2017-08-28,,
+2017,Delhi,2017-08-29,,
+2017,Delhi,2017-08-30,73.0,Satisfactory
+2017,Delhi,2017-08-31,94.0,Satisfactory
+2017,Delhi,2017-09-01,91.0,Satisfactory
+2017,Delhi,2017-09-02,88.0,Satisfactory
+2017,Delhi,2017-09-03,88.0,Satisfactory
+2017,Delhi,2017-09-04,89.0,Satisfactory
+2017,Delhi,2017-09-05,88.0,Satisfactory
+2017,Delhi,2017-09-06,88.0,Satisfactory
+2017,Delhi,2017-09-07,88.0,Satisfactory
+2017,Delhi,2017-09-08,106.0,Moderate
+2017,Delhi,2017-09-09,96.0,Satisfactory
+2017,Delhi,2017-09-10,118.0,Moderate
+2017,Delhi,2017-09-11,119.0,Moderate
+2017,Delhi,2017-09-12,106.0,Moderate
+2017,Delhi,2017-09-13,115.0,Moderate
+2017,Delhi,2017-09-14,142.0,Moderate
+2017,Delhi,2017-09-15,169.0,Moderate
+2017,Delhi,2017-09-16,110.0,Moderate
+2017,Delhi,2017-09-17,106.0,Moderate
+2017,Delhi,2017-09-18,99.0,Satisfactory
+2017,Delhi,2017-09-19,109.0,Moderate
+2017,Delhi,2017-09-20,137.0,Moderate
+2017,Delhi,2017-09-21,144.0,Moderate
+2017,Delhi,2017-09-22,92.0,Satisfactory
+2017,Delhi,2017-09-23,83.0,Satisfactory
+2017,Delhi,2017-09-24,84.0,Satisfactory
+2017,Delhi,2017-09-25,104.0,Moderate
+2017,Delhi,2017-09-26,131.0,Moderate
+2017,Delhi,2017-09-27,165.0,Moderate
+2017,Delhi,2017-09-28,176.0,Moderate
+2017,Delhi,2017-09-29,172.0,Moderate
+2017,Delhi,2017-09-30,137.0,Moderate
+2017,Delhi,2017-10-01,131.0,Moderate
+2017,Delhi,2017-10-02,132.0,Moderate
+2017,Delhi,2017-10-03,115.0,Moderate
+2017,Delhi,2017-10-04,151.0,Moderate
+2017,Delhi,2017-10-05,180.0,Moderate
+2017,Delhi,2017-10-06,183.0,Moderate
+2017,Delhi,2017-10-07,193.0,Moderate
+2017,Delhi,2017-10-08,224.0,Poor
+2017,Delhi,2017-10-09,268.0,Poor
+2017,Delhi,2017-10-10,253.0,Poor
+2017,Delhi,2017-10-11,208.0,Poor
+2017,Delhi,2017-10-12,211.0,Poor
+2017,Delhi,2017-10-13,246.0,Poor
+2017,Delhi,2017-10-14,319.0,Very Poor
+2017,Delhi,2017-10-15,317.0,Very Poor
+2017,Delhi,2017-10-16,310.0,Very Poor
+2017,Delhi,2017-10-17,313.0,Very Poor
+2017,Delhi,2017-10-18,310.0,Very Poor
+2017,Delhi,2017-10-19,336.0,Very Poor
+2017,Delhi,2017-10-20,497.0,Severe
+2017,Delhi,2017-10-21,404.0,Severe
+2017,Delhi,2017-10-22,338.0,Very Poor
+2017,Delhi,2017-10-23,327.0,Very Poor
+2017,Delhi,2017-10-24,366.0,Very Poor
+2017,Delhi,2017-10-25,357.0,Very Poor
+2017,Delhi,2017-10-26,328.0,Very Poor
+2017,Delhi,2017-10-27,345.0,Very Poor
+2017,Delhi,2017-10-28,379.0,Very Poor
+2017,Delhi,2017-10-29,362.0,Very Poor
+2017,Delhi,2017-10-30,340.0,Very Poor
+2017,Delhi,2017-10-31,366.0,Very Poor
+2017,Delhi,2017-11-01,344.0,Very Poor
+2017,Delhi,2017-11-02,305.0,Very Poor
+2017,Delhi,2017-11-03,310.0,Very Poor
+2017,Delhi,2017-11-04,345.0,Very Poor
+2017,Delhi,2017-11-05,370.0,Very Poor
+2017,Delhi,2017-11-06,377.0,Very Poor
+2017,Delhi,2017-11-07,532.0,Severe
+2017,Delhi,2017-11-08,675.0,Severe
+2017,Delhi,2017-11-09,677.0,Severe
+2017,Delhi,2017-11-10,597.0,Severe
+2017,Delhi,2017-11-11,471.0,Severe
+2017,Delhi,2017-11-12,613.0,Severe
+2017,Delhi,2017-11-13,561.0,Severe
+2017,Delhi,2017-11-14,444.0,Severe
+2017,Delhi,2017-11-15,378.0,Very Poor
+2017,Delhi,2017-11-16,357.0,Very Poor
+2017,Delhi,2017-11-17,330.0,Very Poor
+2017,Delhi,2017-11-18,309.0,Very Poor
+2017,Delhi,2017-11-19,297.0,Poor
+2017,Delhi,2017-11-20,329.0,Very Poor
+2017,Delhi,2017-11-21,341.0,Very Poor
+2017,Delhi,2017-11-22,348.0,Very Poor
+2017,Delhi,2017-11-23,340.0,Very Poor
+2017,Delhi,2017-11-24,348.0,Very Poor
+2017,Delhi,2017-11-25,347.0,Very Poor
+2017,Delhi,2017-11-26,368.0,Very Poor
+2017,Delhi,2017-11-27,382.0,Very Poor
+2017,Delhi,2017-11-28,360.0,Very Poor
+2017,Delhi,2017-11-29,359.0,Very Poor
+2017,Delhi,2017-11-30,388.0,Very Poor
+2017,Delhi,2017-12-01,377.0,Very Poor
+2017,Delhi,2017-12-02,356.0,Very Poor
+2017,Delhi,2017-12-03,384.0,Very Poor
+2017,Delhi,2017-12-04,415.0,Severe
+2017,Delhi,2017-12-05,404.0,Severe
+2017,Delhi,2017-12-06,330.0,Very Poor
+2017,Delhi,2017-12-07,215.0,Poor
+2017,Delhi,2017-12-08,220.0,Poor
+2017,Delhi,2017-12-09,312.0,Very Poor
+2017,Delhi,2017-12-10,389.0,Very Poor
+2017,Delhi,2017-12-11,406.0,Severe
+2017,Delhi,2017-12-12,280.0,Poor
+2017,Delhi,2017-12-13,263.0,Poor
+2017,Delhi,2017-12-14,276.0,Poor
+2017,Delhi,2017-12-15,292.0,Poor
+2017,Delhi,2017-12-16,228.0,Poor
+2017,Delhi,2017-12-17,195.0,Moderate
+2017,Delhi,2017-12-18,223.0,Poor
+2017,Delhi,2017-12-19,291.0,Poor
+2017,Delhi,2017-12-20,378.0,Very Poor
+2017,Delhi,2017-12-21,467.0,Severe
+2017,Delhi,2017-12-22,370.0,Very Poor
+2017,Delhi,2017-12-23,253.0,Poor
+2017,Delhi,2017-12-24,309.0,Very Poor
+2017,Delhi,2017-12-25,398.0,Very Poor
+2017,Delhi,2017-12-26,372.0,Very Poor
+2017,Delhi,2017-12-27,379.0,Very Poor
+2017,Delhi,2017-12-28,398.0,Very Poor
+2017,Delhi,2017-12-29,399.0,Very Poor
+2017,Delhi,2017-12-30,421.0,Severe
+2017,Delhi,2017-12-31,451.0,Severe
